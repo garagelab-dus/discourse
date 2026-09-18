@@ -1,7 +1,7 @@
 templates:
   - "templates/web.template.yml"
   - "templates/offline-page.template.yml"
-  - "templates/web.ratelimited.template.yml"
+  - "templates/web.ratelimited-scim.template.yml"
 env:
   LC_ALL: en_US.UTF-8
   LANG: en_US.UTF-8
